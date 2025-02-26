@@ -1,4 +1,4 @@
-# effective-script
+# effective-javascript-and-typescript
 
 简体中文 &nbsp; | &nbsp; [英文](./README.md)
 
