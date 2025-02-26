@@ -1,4 +1,4 @@
-# effective-script
+# effective-javascript-and-typescript
 
 English &nbsp; | &nbsp; [Chinese](./README.zh-CN.md)
 
